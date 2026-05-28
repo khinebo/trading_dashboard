@@ -1,1 +1,4 @@
 timestamp,ticker,side,qty,price,value,regime,reason
+2026-05-28T21:49:02,BTC/USD,buy,0.109079,73341.326,7999.9985,BULL,rebalance
+2026-05-28T21:49:02,ETH/USD,buy,4.027633,1986.277,7999.9948,BULL,rebalance
+2026-05-28T21:49:02,SOL/USD,buy,99.15649,80.6805,7999.9952,BULL,rebalance
