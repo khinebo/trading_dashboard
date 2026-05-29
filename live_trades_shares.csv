@@ -175,3 +175,7 @@ timestamp,ticker,side,qty,price,value,regime,reason
 2026-05-30T03:47:06,META,sell,1,626.3,626.3,BEAR,rebalance
 2026-05-30T03:48:06,AMZN,sell,3,271.235,813.705,BEAR,rebalance
 2026-05-30T03:48:06,META,buy,1,626.265,626.265,BEAR,rebalance
+2026-05-30T04:04:17,AAPL,buy,3,309.96,929.88,BEAR,rebalance
+2026-05-30T04:04:17,TSLA,sell,2,436.32,872.64,BEAR,rebalance
+2026-05-30T04:05:17,AAPL,sell,3,309.87,929.61,BEAR,rebalance
+2026-05-30T04:05:17,TSLA,buy,2,436.36,872.72,BEAR,rebalance
