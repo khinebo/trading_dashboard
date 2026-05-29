@@ -221,3 +221,5 @@ timestamp,ticker,side,qty,price,value,regime,reason
 2026-05-30T05:19:03,NVDA,sell,9,217.0,1953.0,NEUTRAL,rebalance
 2026-05-30T05:20:04,MSFT,sell,5,442.83,2214.15,NEUTRAL,rebalance
 2026-05-30T05:20:04,NVDA,buy,9,217.34,1956.06,NEUTRAL,rebalance
+2026-05-30T05:21:05,MSFT,buy,5,443.145,2215.725,NEUTRAL,rebalance
+2026-05-30T05:21:05,NVDA,sell,9,217.27,1955.43,NEUTRAL,rebalance
