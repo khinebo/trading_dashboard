@@ -163,3 +163,5 @@ timestamp,ticker,side,qty,price,value,regime,reason
 2026-05-30T02:52:32,META,sell,4,624.45,2497.8,BEAR,rebalance
 2026-05-30T02:52:32,TSLA,sell,18,435.93,7846.74,BEAR,rebalance
 2026-05-30T02:52:32,SPY,sell,6,756.81,4540.86,BEAR,rebalance
+2026-05-30T03:00:37,AAPL,sell,3,311.05,933.15,BEAR,rebalance
+2026-05-30T03:00:37,TSLA,buy,2,437.48,874.96,BEAR,rebalance
