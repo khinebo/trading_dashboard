@@ -230,3 +230,4 @@ timestamp,ticker,side,qty,price,value,regime,reason
 2026-05-30T05:50:24,AAPL,sell,1,312.905,312.905,NEUTRAL,rebalance
 2026-05-30T05:50:24,NVDA,buy,1,213.9,213.9,NEUTRAL,rebalance
 2026-05-30T05:55:27,MSFT,sell,1,449.37,449.37,NEUTRAL,rebalance
+2026-05-30T05:58:28,AAPL,buy,1,311.87,311.87,NEUTRAL,rebalance
