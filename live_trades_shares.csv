@@ -199,3 +199,7 @@ timestamp,ticker,side,qty,price,value,regime,reason
 2026-05-30T04:46:43,NVDA,sell,3,216.85,650.55,BEAR,rebalance
 2026-05-30T04:49:45,MSFT,sell,2,442.485,884.97,BEAR,rebalance
 2026-05-30T04:49:45,NVDA,buy,3,217.04,651.12,BEAR,rebalance
+2026-05-30T04:50:45,AAPL,sell,3,310.54,931.62,BEAR,rebalance
+2026-05-30T04:50:45,TSLA,buy,2,437.08,874.16,BEAR,rebalance
+2026-05-30T04:51:46,AAPL,buy,3,310.44,931.32,BEAR,rebalance
+2026-05-30T04:51:46,TSLA,sell,2,436.63,873.26,BEAR,rebalance
